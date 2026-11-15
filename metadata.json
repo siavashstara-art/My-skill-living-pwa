@@ -1,0 +1,6 @@
+{
+  "name": "Afrina Audio Studio",
+  "description": "استودیوی صوتی آفرینا - ضبط صدا، خلاصه‌سازی کتاب، تبدیل متن به صوت، کتاب صوتی و ارتقای کیفیت",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
